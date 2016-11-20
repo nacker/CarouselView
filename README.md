@@ -1,8 +1,5 @@
 # CarouselView
 无限循环图片轮播器Swift版。Autoscroll Banner。完美封装 
-
-
-![CarouselView in action](MenuItem.gif)
     
 ##Install
     
